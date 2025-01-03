@@ -15,4 +15,4 @@ A fun and addictive match-3 game featuring cute animals! Match three or more sam
 - Responsive design
 
 ## Play Now
-Visit [https://[your-github-username].github.io/match3-game](https://[your-github-username].github.io/match3-game) to play the game!
+Visit [https://593691695.github.io/match3-game](https://593691695.github.io/match3-game) to play the game!
